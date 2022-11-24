@@ -1,0 +1,2 @@
+System.register(["./index-legacy.b94784fb.js","./index-legacy.f5994e71.js"],(function(e){"use strict";var t,r,n,s,u;return{setters:[function(e){t=e.E},function(e){r=e.j,n=e.o,s=e.v,u=e.f}],execute:function(){e("default",{__name:"401",setup(e){const{t:c}=r();return(e,r)=>(n(),s(t,{type:"401",title:u(c)("errorPages.401.desc"),msg:u(c)("errorPages.401.remark")},null,8,["title","msg"]))}})}}}));
+//# sourceMappingURL=401-legacy.d3bcaf5f.js.map
